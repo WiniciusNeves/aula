@@ -1,0 +1,6 @@
+aula
+
+tipo 0 forma que so poder ir para frente, em outro palavras ON/OFf
+
+tipo 1, tipo de formar que parecer um swint case mais nao e, em outra palavras tela de login de role
+pilha = html baseco abre e fecha, e dentro disso tem o que vai ser mostrado na tela, ou seja, o conteudo da tela
